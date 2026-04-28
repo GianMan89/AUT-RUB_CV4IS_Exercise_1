@@ -1,0 +1,15 @@
+name: cvis-exercise1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-image
+  - pillow
+  - jupyterlab
+  - pip
+  - pip:
+      - opencv-python-headless

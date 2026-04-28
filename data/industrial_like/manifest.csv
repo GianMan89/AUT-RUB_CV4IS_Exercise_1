@@ -1,0 +1,8 @@
+image,mask,label
+surface_defect_bright_scratch_easy.png,surface_defect_bright_scratch_easy_mask.png,bright_scratch_easy
+surface_nominal_01.png,surface_nominal_01_mask.png,nominal
+surface_nominal_02.png,surface_nominal_02_mask.png,nominal
+surface_defect_scratch_01.png,surface_defect_scratch_01_mask.png,scratch
+surface_defect_dark_scratch_01.png,surface_defect_dark_scratch_01_mask.png,dark_scratch
+surface_defect_spot_01.png,surface_defect_spot_01_mask.png,spot
+surface_defect_edge_chip_01.png,surface_defect_edge_chip_01_mask.png,edge_chip
